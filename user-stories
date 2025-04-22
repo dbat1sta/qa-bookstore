@@ -1,0 +1,6 @@
+Sample User Stories:
+
+- As a registered user, I want to log in so I can manage my purchases.
+- As a visitor, I want to search for books so I can find specific titles.
+- As a customer, I want to add books to my cart so I can buy them.
+- As a user, I want error messages when actions fail so I can understand what's wrong.
