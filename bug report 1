@@ -1,0 +1,14 @@
+# Bug ID: BUG-001
+
+Title: Search returns no results for valid query  
+Environment: Chrome 122, Windows 11  
+
+Replication Steps:
+1. Go to homepage  
+2. Enter "JavaScript" in the search bar  
+3. Click "Search"
+
+Expected Result: List of JavaScript books is displayed  
+Actual Result: "No results found" message is shown  
+Severity: Medium  
+Status: Open
