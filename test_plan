@@ -1,0 +1,24 @@
+# Bookstore Test Plan
+
+Objective:
+Verify functionality and stability of the online bookstore's core features.
+
+Features to Test:
+- User Login
+- Book Search
+- Add to Cart
+- Checkout Process
+- Error Handling
+
+Test Types:
+- Manual Functional Testing
+- Regression Testing
+- Smoke Testing
+- Exploratory Testing
+
+Entry Criteria:
+- Features deployed to test environment
+
+Exit Criteria
+- All critical test cases pass
+- No open high-severity defects
