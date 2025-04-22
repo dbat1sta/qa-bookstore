@@ -1,0 +1,22 @@
+Test Case ID,Title,Precondition,Test Steps,Expected Result,Status
+TC001,Login with valid credentials,User is registered,
+
+1. Go to login page
+2. Enter valid email/password
+3. Click login
+",User is redirected to dashboard,Not Run
+TC002,Search for a book,None,"
+
+1. Go to homepage
+2. Type 'Python' in search bar
+3. Click Search
+",List of books related to 'Python' appears,Not Run
+TC003,Add book to cart,User is logged in,"
+
+1. Search for 'Flask'
+2. Click 'Add to Cart'
+3. Go to cart",Book appears in cart with correct price and quantity,Not Run
+TC004,Checkout with empty cart,User is logged in,"
+
+1. Go to cart
+2. Click 'Checkout'",Error message 'Cart is empty' is displayed,Not Run
